@@ -1,5 +1,5 @@
 // API service for AWS API Gateway backend
-const API_BASE_URL = 'UPDATE WITH YOUR API GATEWAY INVOKE URL';
+const API_BASE_URL = ' https://hjltvuaoxc.execute-api.us-east-1.amazonaws.com/prod';
 
 export interface Item {
   id: string;
